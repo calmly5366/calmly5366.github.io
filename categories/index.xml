@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 古文巡禮</title>
-    <link>http://example.org/categories/</link>
+    <link>http://calmly5366.github.io/categories/</link>
     <description>Recent content in Categories on 古文巡禮</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Tue, 13 Aug 2024 11:25:05 -0400</lastBuildDate>
-    <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://calmly5366.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>http://example.org/categories/posts/</link>
+      <link>http://calmly5366.github.io/categories/posts/</link>
       <pubDate>Tue, 13 Aug 2024 11:25:05 -0400</pubDate>
-      <guid>http://example.org/categories/posts/</guid>
+      <guid>http://calmly5366.github.io/categories/posts/</guid>
       <description></description>
     </item>
     <item>
       <title>Story</title>
-      <link>http://example.org/categories/story/</link>
+      <link>http://calmly5366.github.io/categories/story/</link>
       <pubDate>Tue, 13 Aug 2024 11:25:05 -0400</pubDate>
-      <guid>http://example.org/categories/story/</guid>
+      <guid>http://calmly5366.github.io/categories/story/</guid>
       <description></description>
     </item>
     <item>
       <title>Todo</title>
-      <link>http://example.org/categories/todo/</link>
+      <link>http://calmly5366.github.io/categories/todo/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      <guid>http://example.org/categories/todo/</guid>
+      <guid>http://calmly5366.github.io/categories/todo/</guid>
       <description></description>
     </item>
   </channel>

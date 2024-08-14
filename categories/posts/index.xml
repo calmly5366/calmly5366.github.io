@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 古文巡禮</title>
-    <link>http://example.org/categories/posts/</link>
+    <link>http://calmly5366.github.io/categories/posts/</link>
     <description>Recent content in Posts on 古文巡禮</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Tue, 13 Aug 2024 11:25:05 -0400</lastBuildDate>
-    <atom:link href="http://example.org/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://calmly5366.github.io/categories/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>滴天隨</title>
-      <link>http://example.org/posts/chinese/</link>
+      <link>http://calmly5366.github.io/posts/chinese/</link>
       <pubDate>Tue, 13 Aug 2024 11:25:05 -0400</pubDate>
-      <guid>http://example.org/posts/chinese/</guid>
+      <guid>http://calmly5366.github.io/posts/chinese/</guid>
       <description>甲木參天，脫胎要火，春不容金，秋不容土，火熾乘龍，水蕩騎虎，地潤天和，植立千古。&#xA;乙木雖柔，刲羊解牛，懷丁抱丙，跨鳳乘猴，虛濕之地，騎馬亦憂，藤蘿系甲，可春可秋。&#xA;丙火猛烈，欺霜侮雪，能煆庚金，從辛反怯，土眾生慈，水猖顯節，虎馬犬鄉，甲來成滅。&#xA;丁火柔中，內性昭融，抱乙而孝，合壬而忠，旺而不烈，衰而不窮，如有嫡母，可秋可冬。&#xA;戊土固重，既中且正，靜翕動辟，萬物司命，水潤物生，土燥物病，若在艮坤，怕沖宜靜。&#xA;己土卑濕，中正蓄藏，不愁木盛，不畏水狂，火少火晦，金多金光，若要物旺，宜助宜幫。&#xA;庚金帶殺，剛健為最，得水而清，得火而銳，土潤則生，土幹則脆，能贏甲兄，輸于乙妹。&#xA;辛金軟弱，溫潤而清，畏土之多，樂水之盈，能扶社稷，能救生靈，熱則喜母，寒則喜丁。&#xA;壬水通河，能泄金氣，剛中之德，周流不滯，通根透癸，沖天奔地，化則有情，從則相濟。&#xA;癸水至弱，達于天津，得龍而運，功化斯神，不愁火土，不論庚辛，合戊見火，化象斯真。</description>
     </item>
   </channel>
