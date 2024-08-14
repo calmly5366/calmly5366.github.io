@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story on 古文巡禮</title>
+    <link>http://example.org/categories/story/</link>
+    <description>Recent content in Story on 古文巡禮</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Tue, 13 Aug 2024 11:25:05 -0400</lastBuildDate>
+    <atom:link href="http://example.org/categories/story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>命學諸論</title>
+      <link>http://example.org/posts/chapter-6/</link>
+      <pubDate>Tue, 13 Aug 2024 11:25:05 -0400</pubDate>
+      <guid>http://example.org/posts/chapter-6/</guid>
+      <description>欲識三元萬法宗，先觀帝載與神功。&#xA;坤元合德機緘通，五氣偏全論吉凶。&#xA;載天履地人為貴，順則吉兮凶則悖。&#xA;要與人間開聾瞆，順逆之機須理會。&#xA;理承氣行豈有常，進兮退兮宜抑揚。&#xA;配合干支仔細詳，定人禍福與災祥。&#xA;五陽皆陽丙為最，五陰皆陰癸為至。&#xA;五陽從氣不從勢，五陰從勢無情義。</description>
+    </item>
+    <item>
+      <title>Chapter I: The Grand Hall</title>
+      <link>http://example.org/posts/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://example.org/posts/chapter-1/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.&#xA;The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+    </item>
+  </channel>
+</rss>
